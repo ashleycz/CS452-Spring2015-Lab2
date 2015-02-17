@@ -1,1 +1,4 @@
-name, date, description
+Christian Ashley
+2/17/2015
+
+I gave the vertex shader a vec2 for 2D translation, which is editted if a user presses the WASD or 1 keys.
